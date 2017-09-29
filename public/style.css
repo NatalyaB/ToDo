@@ -1,0 +1,42 @@
+body {
+    background-color: #F0F8FF;
+}
+
+header {
+    margin-top: 30px;
+}
+
+#add-todo {
+    background-color: #1E90FF;
+}
+
+
+.update {
+    background-color: #8A2BE2;
+}
+
+
+.delete {
+    background-color: #D02090;
+}
+
+.row {
+    margin-bottom: 30px;
+}
+
+.todo-list .row {
+    border-bottom: 1px solid #000080;
+}
+
+.todo-list {
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    display: inline;
+}
+
+.done {
+    background-color: #20B2AA;
+}
